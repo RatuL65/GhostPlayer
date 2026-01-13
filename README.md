@@ -22,7 +22,7 @@ Every time you `Alt + Tab` to skip a song, you lose focus. Context switching is 
 3.  Drag it to your preferred spot.
 
 ## 🛠 Tech Stack
-* **Python 3.12**
+* **Python 3.14**
 * **CustomTkinter** (UI)
 * **WinRT API** (Media Transport)
 * **Pynput** (Global Hotkeys)
@@ -33,5 +33,4 @@ Every time you `Alt + Tab` to skip a song, you lose focus. Context switching is 
 * **Move:** Drag anywhere on the background.
 * **Close:** Click '×' (Position is auto-saved).
 
----
-*Built by [Your Name] for the Department of Industrial & Production Engineering, BUET.*
+
