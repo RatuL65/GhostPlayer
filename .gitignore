@@ -1,0 +1,20 @@
+# PyCharm & VS Code settings
+.idea/
+.vscode/
+*.iws
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Big folder!)
+.venv/
+venv/
+
+# Build artifacts (Don't upload the exe source folders)
+build/
+dist/
+*.spec
+
+# Local Config (Optional: If you want every user to start fresh)
+ghost_config.json
